@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NEW-WAY-2023
-- 👀 I’m interested in a control system, AI, and Optimization Technique
+- 👀 I’m interested in a control system, MPC, SMC, MLC, AI, and Optimization Techniques (GA, QP, PSO,...)
 - 🌱 I’m currently learning my master's in Sustainable Transportation and electrical power system (STEPS) - Erasmus Mundus 
-- 💞️ I’m looking to collaborate on EV, BMS, EM, and PE research
+- 💞️ I’m looking to collaborate on EV, robotics, and drone research
 - 📫 How to reach me: email neway.yifru@gmail.com, uo294902@uniovi.es
 
 <!---
