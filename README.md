@@ -14,7 +14,7 @@
 
 🌐 Feel free to explore my repositories, check out my projects, and connect with me on other platforms:
   - LinkedIn: [Neway Yifru ](https://www.linkedin.com/in/newayyifru/)
-  - Personal Website: [neway2021.github.io/mypage/](https://neway2021.github.io/mypage/)
+  - Personal Website: [neway2021.github.io/mypage/](https://neway2021.github.io/mypage/) 
 
 Let's collaborate and create something awesome together! 🚀
 - 
