@@ -2,9 +2,9 @@
 
 👨‍🎓 I'm a graduate student currently pursuing my master's degree in Sustainable Transportation and Electrical Power Systems (STEPS) through the Erasmus Mundus program.
 
-🔍 My interests lie in the fascinating world of control systems, where I explore topics like Model Predictive Control (MPC), Sliding Mode Control (SMC), Linear Quadratic Regulator (LQR), LQG, Artificial Intelligence (AI), and various Optimization Techniques, including Genetic Algorithms (GA), and Particle Swarm Optimization (PSO).
+🔍 My interests lie in the fascinating world of robotics and autonomous system, where I explore topics like Model Predictive Control (MPC), optimal control (LQR, LQG), Machine learning and RL, and various Optimization Techniques, including Genetic Algorithms (GA), and Particle Swarm Optimization (PSO).
 
-🤖 I'm passionate about applying my knowledge to practical applications. I'm always excited to collaborate on projects related to Electric Vehicles (EV), robotics, drones, and designing control systems for dynamic systems.
+🤖 I'm passionate about applying my knowledge to practical applications. I'm always excited to collaborate on projects related to robotics and autonomous system, and designing data driven control algorithm.
 
 📫 You can reach out to me through:
   - Email: [neway.yifru@gmail.com](mailto:neway.yifru@gmail.com)
