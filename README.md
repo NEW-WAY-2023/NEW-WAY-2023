@@ -6,8 +6,6 @@
 
 🤖 I'm passionate about applying my knowledge to practical applications. I'm always excited to collaborate on projects related to robotics and autonomous system, and designing data driven control algorithm.
 
-😄 Pronouns: He/Him
-
 🌐 Feel free to explore my repositories, check out my projects, and connect with me on other platforms:
   - LinkedIn: [Neway Yifru ](https://www.linkedin.com/in/newayyifru/)
 
